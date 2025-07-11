@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  intl: 0.20.2
+  intl: ^0.20.2
   vph_common_widgets: ^0.0.3
 
 dev_dependencies:
